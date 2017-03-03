@@ -1,0 +1,44 @@
+.main {
+    width: 800px;
+    font-size: 0;
+    padding: 30px;
+}
+
+.firstset {
+    display: inline-block;
+    font-size: 0;
+    height: 200px;
+    width: 50%;
+}
+
+.secondset {
+    font-size: 0;
+    height: 300px;
+    width: 33.33%;
+    display: inline-block;
+}
+
+.green {
+    background-color: green;
+    border: 1px solid black;
+}
+
+.blue {
+    background-color: blue;
+    border: 1px solid black;
+}
+
+.gray {
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+    border: 1px solid black;
+}
+
+.orange {
+    background-color: orange;
+    border: 1px solid black;
+}
