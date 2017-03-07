@@ -16,7 +16,7 @@ nav {
 }
 /*-*/
 nav ul {
-    padding-left: 160px;
+    padding-left: 100px;
     display: inline-block;
     list-style: none;
 }
@@ -36,6 +36,7 @@ nav .logo {
     margin-top: 5px;
     margin-bottom: 5px;
     vertical-align: middle;
+    border-radius: 100%;
 }
 
 
@@ -51,7 +52,7 @@ nav .logo {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 150px;
+    top: 150px;
 }
 
 .dog {
